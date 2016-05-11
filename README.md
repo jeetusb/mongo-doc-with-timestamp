@@ -1,6 +1,6 @@
 # mongo-doc-with-timestamp
 
-## Mongo Server side Stored Javascript.
+## Mongo server side stored javascript.
 
 This stored Server side mongo js iterates over each documents of given collection
 and calculate timestamp on the basis of document id (MongoId) and append timestamp to each 
