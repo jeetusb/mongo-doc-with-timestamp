@@ -19,8 +19,7 @@ db.system.js.save(
      value : function(collection, query, sort, limit) {
                 db[collection].find(query).limit(limit).sort(sort).forEach(function(doc){
                 doc.timestamp=doc._id.getTimestamp();
-                printjson(doc
-            )
+                printjson(doc);
       }); 
       }
    }
