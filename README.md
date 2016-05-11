@@ -26,6 +26,7 @@ db.system.js.save(
    }
 )
 ```
+
 4. Load JS.
 
 ```
