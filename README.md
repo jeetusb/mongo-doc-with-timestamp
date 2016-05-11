@@ -28,6 +28,8 @@ db.system.js.save(
 ```
 
 4. Load JS.
+dfvdfve
+scewqce
 
 ```
    db.loadServerScripts()
