@@ -9,8 +9,8 @@ respective document and then, print them.
 # How to Use
 
 * Connect to Mongo Shell.
-* use DB_NAME (Replace DB_NAME with actual db name)
-* Paste the entire js on Mongo Shell (It will store js function on system.js collection and can be reused )
+* use DB_NAME (Replace DB_NAME with actual db name).
+* Paste the entire js on Mongo Shell (It will store js function on system.js collection and can be reused).
 
 ```
 db.system.js.save(
