@@ -29,8 +29,7 @@ db.system.js.save(
 4. Load JS.
 
 ```
-db.loadServerScripts()
-
+   db.loadServerScripts()
 ```
 
 5. Issue following command to iterate over a collection where you want timestamp.
