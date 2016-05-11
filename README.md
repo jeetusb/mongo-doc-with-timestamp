@@ -3,7 +3,7 @@
 ## Mongo Server side Stored Javascript.
 
 This stored Server side mongo js iterates over each documents of given collection
-and calculate timestamp on the basis of document Id and append timestamp to each 
+and calculate timestamp on the basis of document id (MongoId) and append timestamp to each 
 respective document and then, print them.
 
 # How to Use
