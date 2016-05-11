@@ -26,9 +26,14 @@ db.system.js.save(
    }
 )
 ```
+4. Load JS.
 
+```
+db.loadServerScripts()
 
-4. Issue following command to iterate over a collection where you want timestamp.
+```
+
+5. Issue following command to iterate over a collection where you want timestamp.
 
 ```
     docsWithTime('collection_name',{"match":"abc"},{"_id":-1},10)
